@@ -1,16 +1,9 @@
 hanuman:
-  username: hanuman
-  name: HANUMAN
-  location: Ayodhya
-  url_full: https://hanumanchalisa.net
-  url: hanumanchalisa.net
-  bio: Jai Shri Ram!
+  username: techiesabina
+  name: Sabina
+  location: Texas
+  url_full: 
+  url: 
+  bio: A student who wants to make games!
   assets: assets/images/hanuman.png
-krishna:
-  username: krishna
-  name: KRISHNA
-  location: Vrindavan
-  url_full: https://shriradhakrishna.com
-  url: shriradhakrishna.com
-  bio: Radhe! Radhe!
-  assets: assets/images/favicon.png
+
