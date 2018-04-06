@@ -39,7 +39,7 @@ plugins:
 safe: False
 lsi: False
 username: techiesabina #github username
-repo: gmae #github repository
+repo: game #github repository
 branch: master #branch
 relative_source: ../game/ #source directory
 destination: ../hanuman-pages/ #destination directory
