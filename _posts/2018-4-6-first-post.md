@@ -19,11 +19,11 @@ author: Sabina
 
 <ul>
 <li>3D Modeling</li>
-<ul><li>Using the Blender modeling program</li>
+<ul><li>Using the Blender modeling program</li></ul>
 <li>Game Programming</li>
 <ul><li>Using the Unity Engine</li>
-<li>Coding with C++</li></ul>
-<li>Working with lighting/camera functions</li></ul></li></li>
+<li>Coding with C++</li>
+<li>Working with lighting/camera functions</li></ul>
 <li>Learn to develop stories/characters thoroughly</li>
 </ul>
 
@@ -53,8 +53,7 @@ author: Sabina
 <hr />
 <h2>Concept Art</h2>
 
-<p>These are my "inspirations" for characters, atmosphere, and gameplay (will be updated as I develop evrything further).</p>
-
+<p>These are my "inspirations" for characters, atmosphere, and gameplay (will be updated as I develop everything further).</p>
 
 <amp-img src="{{ site.baseurl }}assets/images/cyber1.png" width="500" height="200" layout="responsive" alt="" class="mb3"></amp-img>
 <amp-img src="{{ site.baseurl }}assets/images/cyber2.jpg" width="500" height="200" layout="responsive" alt="" class="mb3"></amp-img>
