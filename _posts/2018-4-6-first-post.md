@@ -41,7 +41,7 @@ author: Sabina
 <p>A non-playable chracter (of the same species as the main) who will stand somewhere in the search-area and will give out search hints when interacted with. The number of hints will be three, and will be randomized based on the findable objects in the round.</p>
 
 <h3>Setting:</h3>
-<p>A dystopian Cyberpunk city with a gloomy atmosphere, much like <i>Blade Runner</i> or <i>Observer</i> (see Concept Art).</p>
+<p>A dystopian Cyberpunk city with a gloomy atmosphere, much like <i>Blade Runner</i> or <i>Observer</i> (see <a href="#facebook_ads_example">Concept Art</a>).</p>
 <p>Again, if I'm feeling compelled to, I may include "bonus settings" that would allow a player to alter the colors of the environment, or something of the like.</p>
 <p>Although the wider world may appear larger, gameplay will onlky take place within a tiny alloted area, as to both make gameplay easier as well as reduce the amount of modeling I need to do.</p>
 
@@ -49,9 +49,10 @@ author: Sabina
 <p>The player will need to search for a certain number of specified items in the alloted area within a given time limit.</p>
 <p>With each "level" that the player completes, the time limit will become shorter, and the items will become more difficult to find. Will I randomize the hiding places? If I can figure out how to, then maybe.</p>
 
+<a href="#facebook_ads_example">
 
 <hr />
-<h2>Concept Art</h2>
+<h2><a id="facebook_ads_example">Concept Art</a></h2> 
 
 <p>These are my "inspirations" for characters, atmosphere, and gameplay (will be updated as I develop everything further).</p>
 
