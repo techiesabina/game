@@ -8,9 +8,10 @@ author: Sabina
 ---
 <p>Here lies my goals and hopeful outcome for my game. I will outline what I wish to accomplish, the purpose of my game itself, and potentially include conecpt art that I will update occasionally.</p>
 
-<hr />
+
 
 <h1>Henceforth I begin my gaming journey.</h1>
+<hr />
 <p> </p>
 <p> </p>
 
