@@ -12,7 +12,7 @@ author: Sabina
 
 <h1>Henceforth I begin my gaming journey.</h1>
 
-<hr />
+
 <h2>Part 1: The Goals</h2>
 
 <p>These are the skills I wish to learn by creating a game.</p>
@@ -41,7 +41,7 @@ author: Sabina
 <p>A non-playable chracter (of the same species as the main) who will stand somewhere in the search-area and will give out search hints when interacted with. The number of hints will be three, and will be randomized based on the findable objects in the round.</p>
 
 <h3>Setting:</h3>
-<p>A dystopian Cyberpunk city with a gloomy atmosphere, much like <i>Blade Runner</i> or <i>Observer</i>(see Concept Art).</p>
+<p>A dystopian Cyberpunk city with a gloomy atmosphere, much like <i>Blade Runner</i> or <i>Observer</i> (see Concept Art).</p>
 <p>Again, if I'm feeling compelled to, I may include "bonus settings" that would allow a player to alter the colors of the environment, or something of the like.</p>
 <p>Although the wider world may appear larger, gameplay will onlky take place within a tiny alloted area, as to both make gameplay easier as well as reduce the amount of modeling I need to do.</p>
 
@@ -55,9 +55,12 @@ author: Sabina
 
 <p>These are my "inspirations" for characters, atmosphere, and gameplay (will be updated as I develop everything further).</p>
 
-<amp-img src="{{ site.baseurl }}assets/images/cyber1.png" width="500" height="200" layout="responsive" alt="" class="mb3"></amp-img>
-<amp-img src="{{ site.baseurl }}assets/images/cyber2.jpg" width="500" height="200" layout="responsive" alt="" class="mb3"></amp-img>
-<amp-img src="{{ site.baseurl }}assets/images/cyber3.gif" width="500" height="200" layout="responsive" alt="" class="mb3"></amp-img>
-<amp-img src="{{ site.baseurl }}assets/images/cyber4.jpg" width="500" height="200" layout="responsive" alt="" class="mb3"></amp-img>
+<amp-img src="{{ site.baseurl }}assets/images/cyber1.png" width="500" height="350" layout="responsive" alt="" class="mb3"></amp-img>
+<amp-img src="{{ site.baseurl }}assets/images/cyber2.jpg" width="500" height="350" layout="responsive" alt="" class="mb3"></amp-img>
+<amp-img src="{{ site.baseurl }}assets/images/cyber3.gif" width="500" height="350" layout="responsive" alt="" class="mb3"></amp-img>
+<amp-img src="{{ site.baseurl }}assets/images/cyber4.jpg" width="500" height="350" layout="responsive" alt="" class="mb3"></amp-img>
+<amp-img src="{{ site.baseurl }}assets/images/cyber5.jpg" width="500" height="350" layout="responsive" alt="" class="mb3"></amp-img>
+<amp-img src="{{ site.baseurl }}assets/images/cyber6.jpg" width="500" height="350" layout="responsive" alt="" class="mb3"></amp-img>
+<amp-img src="{{ site.baseurl }}assets/images/cyber7.png" width="500" height="350" layout="responsive" alt="" class="mb3"></amp-img>
 
 <hr />
