@@ -1,6 +1,6 @@
 ---
 layout: post
-cover: 'assets/images/street.jpg'
+cover: 'assets/images/start.jpg'
 title: First Post
 date: 2018-4-6 11:40:00
 tags: etcetera
