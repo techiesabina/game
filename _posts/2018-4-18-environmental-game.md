@@ -53,16 +53,16 @@ author: Sabina
 <ul>
 <li>The start screen will be a fly-over of the poulluted city and some detailed shots of various parts of the city. Then, we will zoom in to a single green sprout blooming from a park or something, inspiring hope for what could be.</li>
 <li>For the first part of the game, there will be lots of vehicles, and you will see them all emitting noxious smoke and pollution.</li>
-<li>The soundtrack for the beggining opf the game will be slow, dreary instrumental music (Think of <a href="https://www.youtube.com/watch?v=2DLnhdnSUVs">"Elegy to the Arctic"</a> or <a href="https://www.youtube.com/watch?v=O1mFwDceMI8">"Sad Cello Music"</a> ). In the end, it will be cheery instumental music instead (Think of <a href="https://www.youtube.com/watch?v=Hej-McdoYYw">"The Prime Minister's Love Theme"</a>) or the latter part of <a href="https://www.youtube.com/watch?v=H9gFLkNdHvA">"Arrival of The Birds"</a>.</li>
+<li>The soundtrack for the beggining opf the game will be slow, dreary instrumental music (Think of <a href="https://www.youtube.com/watch?v=2DLnhdnSUVs" target="_blank">"Elegy to the Arctic"</a> or <a href="https://www.youtube.com/watch?v=O1mFwDceMI8" target="_blank">"Sad Cello Music"</a> ). In the end, it will be cheery instumental music instead (Think of <a href="https://www.youtube.com/watch?v=Hej-McdoYYw" target="_blank">"The Prime Minister's Love Theme"</a>) or the latter part of <a href="https://www.youtube.com/watch?v=H9gFLkNdHvA" target="_blank">"Arrival of The Birds"</a>.</li>
 <li>If the game gets rather advanced, I may have two paths the player can take to alter the state of the world. In this instance, the "base world" will become that of an averagely-polluted American city, like Houston or Boston. The player will then be able to make decision in-game to improve the state of the environment or completely destroy it. Regardless of the path one chooses, each route will be very educational about green practices.</li>
-<li>The credits screen will undoubtedely be <a href="https://www.youtube.com/watch?v=Pt1N5CsMf8c">"Kisses and Cake"</a>.</li>
+<li>The credits screen will undoubtedely be <a href="https://www.youtube.com/watch?v=Pt1N5CsMf8c" target="_blank">"Kisses and Cake"</a>.</li>
  </ul>
 
 <hr />
 <h2><a id="cart">Concept Art</a></h2> 
 
-<p>I'd like to thinlk that the visual style will be somewhat similar to the flat, simple style of @tamagotchi44's game, which you can see concept art of on his <a href="https://twitter.com/tamagotchi44">twitter</a>.</p>
-<p>I also take stylistic inspiration from games like <a href="http://thatgamecompany.com/journey/">Journey</a>.</p>
+<p>I'd like to thinlk that the visual style will be somewhat similar to the flat, simple style of @tamagotchi44's game, which you can see concept art of on his <a href="https://twitter.com/tamagotchi44" target="_blank">Twitter</a>.</p>
+<p>I also take stylistic inspiration from games like <a href="http://thatgamecompany.com/journey/" target="_blank">Journey</a>.</p>
 
 <amp-img src="{{ site.baseurl }}assets/images/imp1.png" width="500" height="350" layout="responsive" alt="" class="mb3"></amp-img>
 <amp-img src="{{ site.baseurl }}assets/images/imp2.png" width="500" height="350" layout="responsive" alt="" class="mb3"></amp-img>
