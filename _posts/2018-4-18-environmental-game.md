@@ -1,6 +1,6 @@
 ---
 layout: post
-cover: 'assets/images/clim.jpg'
+cover: 'assets/images/clim2.jpg'
 title: Climate Change Game
 date: 2018-4-18 11:05:00
 tags: climategame ideas
