@@ -1,7 +1,7 @@
 ---
 layout: post
 cover: 'assets/images/start.jpg'
-title: First Post
+title: Searching Game
 date: 2018-4-6 11:40:00
 tags: etcetera
 author: Sabina
