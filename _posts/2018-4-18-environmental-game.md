@@ -3,7 +3,7 @@ layout: post
 cover: 'assets/images/clim.jpg'
 title: Climate Change Game
 date: 2018-4-18 11:05:00
-tags: climategame, ideas
+tags: climategame ideas
 author: Sabina
 ---
 <p>This is an idea that I conceived about a game meant to discuss climate change.</p>
