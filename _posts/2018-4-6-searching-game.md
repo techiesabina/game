@@ -3,7 +3,7 @@ layout: post
 cover: 'assets/images/start.jpg'
 title: Searching Game
 date: 2018-4-6 11:40:00
-tags: etcetera
+tags: searchgame, ideas
 author: Sabina
 ---
 <p>Here lies my goals and hopeful outcome for my game. I will outline what I wish to accomplish, the purpose of my game itself, and potentially include conecpt art that I will update occasionally.</p>
