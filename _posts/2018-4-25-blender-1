@@ -1,0 +1,19 @@
+---
+layout: post
+cover: 'assets/images/donutmain.png'
+title: Beginning Blender (April 25)
+date: 2018-4-25 12:23:00
+tags: blender
+author: Sabina
+---
+<p>This is my progress as I learn how to use Blender.</p>
+
+<amp-img src="{{ site.baseurl }}assets/images/donut11.png" width="500" height="350" layout="responsive" alt="" class="mb3"></amp-img>
+<amp-img src="{{ site.baseurl }}assets/images/donut12.png" width="500" height="350" layout="responsive" alt="" class="mb3"></amp-img>
+
+<h1> Today's Progress</h1>
+<hr />
+ 
+ <p>I've thus far gone through three tutorials with the <a href="https://www.youtube.com/watch?v=JYj6e-72RDs&list=PLjEaoINr3zgHs8uzT3yqe4iHGfkCmMJ0P">Blender Guru</a>.</p>  
+
+<hr />
