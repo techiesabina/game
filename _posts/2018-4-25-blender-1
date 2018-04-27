@@ -8,12 +8,15 @@ author: Sabina
 ---
 <p>This is my progress as I learn how to use Blender.</p>
 
-<amp-img src="{{ site.baseurl }}assets/images/donut11.png" width="500" height="350" layout="responsive" alt="" class="mb3"></amp-img>
-<amp-img src="{{ site.baseurl }}assets/images/donut12.png" width="500" height="350" layout="responsive" alt="" class="mb3"></amp-img>
-
-<h1> Today's Progress</h1>
-<hr />
- 
+<h2>Today's Progress</h2>
  <p>I've thus far gone through three tutorials with the <a href="https://www.youtube.com/watch?v=JYj6e-72RDs&list=PLjEaoINr3zgHs8uzT3yqe4iHGfkCmMJ0P">Blender Guru</a>.</p>  
+ <br>
+<amp-img src="{{ site.baseurl }}assets/images/donut11.png" width="500" height="350" layout="responsive" alt="" class="mb3"></amp-img>
+<p>This is a screenshot of my workspace as I learn how to navigate blender and make use of all of its functions.</p>
+<br>
+<amp-img src="{{ site.baseurl }}assets/images/donut12.png" width="500" height="350" layout="responsive" alt="" class="mb3"></amp-img>
+<p>This is a render of my donut in it's current state.</p>
+<br>
+
 
 <hr />
