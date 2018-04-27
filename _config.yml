@@ -4,7 +4,7 @@ description: Sabina's Game-Creating Journey
 cover: assets/images/abstract3.jpg
 logo: assets/images/logo.png
 favicon: assets/images/favicon.png
-baseurl: "/game/" # the subpath of your site, e.g. /blog/ or / for root
+baseurl: "" # the subpath of your site, e.g. /blog/ or / for root
 url: "https://techiesabina.github.io/game/" # the base hostname & protocol for your site
 paginate:	5 # The number of posts to show per page on your homepage
 
