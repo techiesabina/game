@@ -59,6 +59,7 @@ author: Sabina
 
 <p>These are my "inspirations" for characters, atmosphere, and gameplay (will be updated as I develop everything further).</p>
 
+<amp-img src="{{ site.baseurl }}assets/images/citybad.png" width="500" height="350" layout="responsive" alt="" class="mb3"></amp-img>
 <amp-img src="{{ site.baseurl }}assets/images/cyber1.png" width="500" height="350" layout="responsive" alt="" class="mb3"></amp-img>
 <amp-img src="{{ site.baseurl }}assets/images/cyber2.jpg" width="500" height="350" layout="responsive" alt="" class="mb3"></amp-img>
 <amp-img src="{{ site.baseurl }}assets/images/cyber3.gif" width="500" height="350" layout="responsive" alt="" class="mb3"></amp-img>
