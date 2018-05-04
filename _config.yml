@@ -1,7 +1,7 @@
 # Site settings
 title: Sabina's Game Journey
 description: Sabina's Game-Creating Journey
-cover: assets/images/abstract3.jpg
+cover: assets/images/abstract2.jpg
 logo: assets/images/logo.png
 favicon: assets/images/favicon.png
 baseurl: "" # the subpath of your site, e.g. /blog/ or / for root
